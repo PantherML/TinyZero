@@ -1,4 +1,6 @@
 # TinyZero
+## Reproduction of DeepSeek R1 Zero
+
 ![image](cover.png)
 
 TinyZero is a reproduction of [DeepSeek R1 Zero](https://github.com/deepseek-ai/DeepSeek-R1) in countdown and multiplication tasks. We built upon [veRL](https://github.com/volcengine/verl).
